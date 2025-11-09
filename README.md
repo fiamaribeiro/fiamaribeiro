@@ -71,8 +71,8 @@ Participo do programa **DIO Campus Expert – Turma 14**, onde desenvolvo habili
 
 ## 🐍 Contribuições
 
-![GitHub Snake Light](https://raw.githubusercontent.com/fiamaribeiro/fiamaribeiro/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/fiamaribeiro/fiamaribeiro/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Light](https://raw.githubusercontent.com/fiamaribeiro/fiamaribeiro/main/dist/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/fiamaribeiro/fiamaribeiro/main/dist/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 ---
 
