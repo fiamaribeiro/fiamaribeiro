@@ -42,15 +42,15 @@ Participo do programa **DIO Campus Expert – Turma 14**, onde desenvolvo habili
 ### 🧩 Projetos de Business Intelligence
 | Projeto | Descrição | Tecnologias |
 |:--------|:-----------|:-------------|
-| **[Dashboard Operacional – Power BI](https://github.com/fiamaribeiro/dashboard-operacional-powerbi)** | Consolida cinco fontes de dados operacionais, reduzindo ~12h/mês de trabalho manual. | Power BI, Power Query, DAX |
-| **[Dashboard Comercial – Metas & Receita](https://github.com/fiamaribeiro/dashboard-comercial-powerbi)** | Painel de acompanhamento de faturamento, metas e regiões com segmentações dinâmicas. | Power BI, DAX |
+| **[Dashboard de RH – Power BI](https://github.com/fiamaribeiro/dashboard-rh-powerbi.git)** |Análise de turnover, admissões, desligamentos, absenteísmo e distribuição do quadro por área, apoiando decisões estratégicas do setor de RH. | Power BI, Power Query, DAX |
+| **[Dashboard Produção - Power BI](https://github.com/fiamaribeiro/dashboard-producao-powerbi.git)** |Monitoramento da produção com visão de eficiência por turno, volume produzido, paradas, rendimento e gargalos operacionais, otimizando tempo e performance industrial. | Power BI, Power Query, DAX |
 
 ### ⚙️ Projetos de Automação & Cloud
 | Projeto | Descrição | Tecnologias |
 |:--------|:-----------|:-------------|
-| **[Chat Assistant Node + React](https://github.com/fiamaribeiro/chat-assistant-node-react)** | Aplicação web simulando um assistente virtual, integrando backend e frontend. | Node.js, React |
-| **[Orquestração Serverless – AWS Step Functions](https://github.com/fiamaribeiro/aws-step-functions-lab)** | Automação serverless com Lambda, DynamoDB e SNS. | AWS, Lambda, DynamoDB, SNS |
-| **[AWS CloudFormation – Infraestrutura como Código](https://github.com/fiamaribeiro/aws-cloudformation-lab)** | Template para criação automatizada de infraestrutura AWS. | CloudFormation, YAML |
+| **[Chat Assistant Node + React](https://github.com/fiamaribeiro/chatgpt-clone-node-react.git)** | Aplicação web simulando um assistente virtual, integrando backend e frontend. | Node.js, React |
+| **[Orquestração Serverless – AWS Step Functions](https://github.com/fiamaribeiro/aws-lambda-s3-automation.git)** | Automação serverless com Lambda, DynamoDB e SNS. | AWS, Lambda, DynamoDB, SNS |
+| **[AWS CloudFormation – Infraestrutura como Código](https://github.com/fiamaribeiro/aws-cloudformation-project.git)** | Template para criação automatizada de infraestrutura AWS. | CloudFormation, YAML |
 
 ### 🎓 Projetos Acadêmicos e Mentorias
 | Projeto | Descrição |
